@@ -40,7 +40,7 @@ namespace Cells
 
         public override Guid ComponentGuid
         {
-            get { return new Guid("357b9f03-3bca-4124-a3f4-4eedbf569819"); }
+            get { return new Guid("5451362c-b2ac-4ed5-ae63-66bb96211fc7"); } // updated
         }
     }
 }
